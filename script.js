@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', () => {
           `💬 Details: ${messageInput ? messageInput.value.trim() || 'Requesting a callback & consultation.' : 'Requesting a callback.'}\n` +
           `📍 Location: Srikakulam`;
 
-        const waUrl = `https://wa.me/918128838159?text=${encodeURIComponent(formattedMsg)}`;
+        const waUrl = `https://wa.me/919866484800?text=${encodeURIComponent(formattedMsg)}`;
 
         // Trigger notification & redirect
         showToast('Thank you! Redirecting your enquiry to G K Interiors on WhatsApp...');
